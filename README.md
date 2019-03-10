@@ -2,7 +2,7 @@
 
 HTML + CSS Flexbox 
 
-![website_project](chair_screen.png "website_project")
+![website_project](chairscreen.png "website_project")
 
 in progress
 
